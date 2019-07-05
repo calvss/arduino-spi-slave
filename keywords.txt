@@ -1,0 +1,6 @@
+SPISlave	KEYWORD1
+
+begin	KEYWORD2
+end	KEYWORD2
+transferByte	KEYWORD2
+transferString	KEYWORD2
